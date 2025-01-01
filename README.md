@@ -2,7 +2,7 @@
 ------------------------------------------------------
 HWIDS BELOW!
 ------------------------------------------------------
-verified: Rambizz PC: Arda CPU: INTEL GPU: AMD SOCKET: {320a0d3c-4bf6-11ef-af5d-806e6f6e6963}
+verified: Rambizz PC: Arda CPU: INTEL GPU: AMD SOCKET: {fccd7ac2-8d43-11ef-b2a1-806e6f6e6963}
 ------------------------------------------------------
 verified: Vallone PC: Furkan CPU: INTEL GPU: NVIDIA SOCKET: {482b7f9d-6acd-12ef-bc3d-90fe4d6f8b12}
 ------------------------------------------------------
