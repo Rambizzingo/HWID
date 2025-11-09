@@ -1,6 +1,4 @@
 # PERMISSION GRANTED HWID'S
 ------------------------------------------------------
-verified: Rambizz SOCKET: {3d72098b-6f8e-11f0-8918-806e6f6e6963}
-verified: S(MALL) SOCKET: {f085cab9-e887-11ef-8577-806e6f6e6963}
-verified: Umut SOCKET: {230d1a19-9603-11f0-9869-806e6f6e6963}
-verified: Atlas SOCKET: {e0996036-9578-11f0-ba9c-806e6f6e6963}
+verified: Rambizz SOCKET: 178BFBFF00A20F12
+verified: TROZZY SOCKET: BFEBFBFF000B06F5
